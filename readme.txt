@@ -1,3 +1,3 @@
 Git is a distributed version control system.
-Gut is free software.
-
+Git is free software.
+2019/10/17 I read an article today.
